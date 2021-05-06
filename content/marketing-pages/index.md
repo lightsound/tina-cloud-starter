@@ -2,7 +2,7 @@
 blocks:
   - template: message
     messageHeader: すごい
-    messageBody: 神か？
+    messageBody: ふむふむ？
   - template: message
     messageHeader: ようこそ!!
     messageBody: >

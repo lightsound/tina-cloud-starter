@@ -12,3 +12,5 @@ fields:
       source:
         type: pages
         section: authors
+pages:
+  - content/posts/Hello.md

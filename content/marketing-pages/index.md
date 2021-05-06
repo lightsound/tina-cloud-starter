@@ -1,7 +1,7 @@
 ---
 blocks:
   - template: message
-    messageHeader: すごい！
+    messageHeader: すごい
     messageBody: 神か？
   - template: message
     messageHeader: ようこそ!!

@@ -1,6 +1,9 @@
 ---
 blocks:
   - template: message
+    messageHeader: すごい！
+    messageBody: 神か？
+  - template: message
     messageHeader: ようこそ!!
     messageBody: >
       The Tina Cloud project is an opinionated approach to working with the

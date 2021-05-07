@@ -1,8 +1,8 @@
 ---
 blocks:
   - template: message
-    messageHeader: すごい
-    messageBody: ふむふむ？
+    messageHeader: すごい！！！
+    messageBody: ふむふむ
   - template: message
     messageHeader: ようこそ
     messageBody: >
